@@ -1,0 +1,6 @@
+name: mlpt-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
